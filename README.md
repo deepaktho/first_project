@@ -1,3 +1,3 @@
 # first_project
-This is my project on GitHub
+This is my first project on GitHub
 
